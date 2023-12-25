@@ -10,10 +10,10 @@ Preprocessed and explored the data.
 # Data Split:
 Segregated the dataset into training and testing sets.
 # Regression Algorithms:
-Employed three regression algorithms 
-- Linear Regression,
-- Decision Trees,
-- Random Forest.
+Employed three regression algorithms:
+- Linear Regression
+- Decision Trees
+- Random Forest
 # Hyperparameter Tuning:
 Applied GridSearchCV to optimize hyperparameters for enhanced model performance.
 
