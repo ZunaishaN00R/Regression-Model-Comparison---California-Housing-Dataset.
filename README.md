@@ -15,9 +15,9 @@ Employed three regression algorithms - Linear Regression, Decision Trees, and Ra
 Applied GridSearchCV to optimize hyperparameters for enhanced model performance.
 
 # Key Metrices:
-Linear Regression MSE: 0.56
-Decision Tree MSE: 0.50
-Best Random Forest MSE: 0.26
+- Linear Regression MSE: 0.56
+- Decision Tree MSE: 0.50
+- Best Random Forest MSE: 0.26
 
 # Conclusion:
 The Random Forest regression model demonstrated superior performance with the lowest mean squared error (MSE) of 0.26.
